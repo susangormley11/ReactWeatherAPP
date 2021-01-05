@@ -47,7 +47,7 @@ export default function Weather() {
       </div>
       <hr />
 
-      <a href="https://github.com/susangormley11/Weather-Project">
+      <a href="https://github.com/susangormley11/Weather-Project" rel="noreferrer">
         Coded by Susan Gormley
       </a>
     </div>
